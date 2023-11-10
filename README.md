@@ -1,2 +1,2 @@
-# Micrograd-playground
-Playing around with micrograd from Andrej Karpathy - The spelled-out intro to neural networks and backpropagation: building micrograd
+# Micrograd
+The original notebook in this repo is a code along from Andrej Karpathy's [youtube video](https://www.youtube.com/watch?v=VMj-3S1tku0) on building a neural network from scratch. I've added some notes and comments to the code to help me understand what's going on. Micrograd mostly focuses on showcasing the autograd functionality of PyTorch. I did a similar project in a course at Uni, but I preferred this take and would recommend it to fellow students.

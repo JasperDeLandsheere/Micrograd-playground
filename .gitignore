@@ -1,0 +1,20 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Conda environments
+.env/
+.venv/
+env/
+conda/
+
+# Python bytecode
+__pycache__/
+
+# Jupyter notebook autosave and checkpoints
+*.nbconvert/
+*.nbdime/
+*.nbformat/
+
+# Jupyter widgets metadata
+.ipynb_metadata/
